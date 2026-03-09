@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm Luis Enrique Patrón Urbina 👋
 
-<!--
-**lepatronur/lepatronur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am an aspiring **Full Stack Developer** currently building my path in the tech world. I'm focused on creating clean, efficient code and mastering the tools that power the modern web.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **My Programming Roadmap**
+- 🌱 Learning: **HTML, CSS, JavaScript, and Git**
+- 💬 Ask me about: Learning strategies and my journey into tech
+- ⚡ Fun fact: Building my future, one commit at a time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,py" />
+  </a>
+</p>
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=lepatronur&show_icons=true&theme=radical&hide_border=true" alt="lepatronur's stats" />
+</p>
+
+---
+📫 **Let's connect!**
+[LinkedIn]https://www.linkedin.com/in/lpatron/ | [Email](mailto:zsilv3rx@gmail.com)
