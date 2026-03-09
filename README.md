@@ -16,4 +16,5 @@ I am an aspiring **Full Stack Developer** currently building my path in the tech
 </p>
 
 📫 **Let's connect!**
+
 [LinkedIn]https://www.linkedin.com/in/lpatron/ | [Email](mailto:zsilv3rx@gmail.com)
