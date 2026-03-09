@@ -6,7 +6,6 @@ I am an aspiring **Full Stack Developer** currently building my path in the tech
 - 🔭 Currently working on: **My Programming Roadmap**
 - 🌱 Learning: **HTML, CSS, JavaScript, and Git**
 - 💬 Ask me about: Learning strategies and my journey into tech
-- ⚡ Fun fact: Building my future, one commit at a time!
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
