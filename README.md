@@ -1,7 +1,7 @@
 # Hi there! I'm Luis Enrique Patrón Urbina 👋
 
 ### 🚀 About Me
-I am an aspiring **Full Stack Developer** currently building my path in the tech world. I'm focused on creating clean, efficient code and mastering the tools that power the modern web.
+I am an aspiring **Full Stack Developer** based in Mexico 🇲🇽 studying mechatronics at @ITESM currently building my path in the tech world. I'm focused on creating clean, efficient code and mastering the tools..
 
 - 🔭 Currently working on: **My Programming Roadmap**
 - 🌱 Learning: **HTML, CSS, JavaScript, and Git**
