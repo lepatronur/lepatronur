@@ -15,11 +15,5 @@ I am an aspiring **Full Stack Developer** currently building my path in the tech
   </a>
 </p>
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lepatronur&show_icons=true&theme=radical&hide_border=true" alt="lepatronur's stats" />
-</p>
-
----
 📫 **Let's connect!**
 [LinkedIn]https://www.linkedin.com/in/lpatron/ | [Email](mailto:zsilv3rx@gmail.com)
